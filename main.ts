@@ -67,5 +67,5 @@ namespace rotateSprite {
 // }
 
 
-//% block="background arcade scroll programming now "
+//% block="background arcade scroll "
 namespace scroller{}
