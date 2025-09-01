@@ -1,6 +1,9 @@
 //% block="rotate sprite"
 namespace rotateSprite {
-    //% block="rotate"
+    //% block="rotate $sprite $speed"
+    //% sprite=variables_get(mySprite)
+    //% speed.max=50
+    //% speed.min=1 
     export function rotate(sprite: Sprite, speed: number = 1) {
         // Convert speed to radians per frame
         let angle = 0
