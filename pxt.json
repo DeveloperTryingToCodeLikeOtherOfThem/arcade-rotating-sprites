@@ -1,0 +1,27 @@
+{
+    "name": "rotating sprites",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-rotating-utils": "github:developertryingtocodelikeotherofthem/arcade-rotating-utils#master",
+        "Oops, we could not run your project, please check your code for errors.": "github:developertryingtocodelikeotherofthem/arcade-oops-we-could-not-run-your-project-extension#master",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "languageRestriction": "javascript-only"
+}
