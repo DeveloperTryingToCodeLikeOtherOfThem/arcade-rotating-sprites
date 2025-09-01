@@ -67,5 +67,5 @@ namespace rotateSprite {
 // }
 
 
-//% block="background arcade panic scroll 17720922930 "
+//% block="background arcade scroll programming now "
 namespace scroller{}
